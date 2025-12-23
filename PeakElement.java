@@ -1,4 +1,4 @@
- class FindPeakElement {
+ Class FindPeakElement {
 
     // Function to find a peak element
     public static int findPeakElement(int[] nums) {
